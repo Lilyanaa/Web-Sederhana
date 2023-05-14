@@ -1,3 +1,3 @@
 # Web-Sederhana
-# Belajar Dasasar Pemrograman Web
+# Belajar Dasar Pemrograman Web
 # Lilyan Arhatia Agustine
